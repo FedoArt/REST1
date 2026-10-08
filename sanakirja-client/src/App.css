@@ -1,0 +1,54 @@
+
+#root {
+  max-width: 650px;
+  margin: 60px auto;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+nav button {
+  background-color: #2563eb;
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 350px;
+  margin: 20px auto;
+}
+
+input {
+  padding: 12px;
+  border: 1px solid #777;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+form button {
+  background-color: #16a34a;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.85;
+}

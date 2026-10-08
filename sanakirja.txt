@@ -3,3 +3,5 @@ talo house
 koira dog
 kissa cat
 hevonen horse
+kissa cat
+vene boat
